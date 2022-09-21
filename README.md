@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://https://lnk.at/ojasathghara" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://lnk.at/ojasathghara" target="blank">
 Ojaswi Athghara</a></h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India &#127470;&#127475</h3>
 <br/>
