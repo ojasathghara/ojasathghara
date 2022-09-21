@@ -23,7 +23,7 @@ Ojaswi Athghara</a></h1>
 
 - Blog and personal website coming soon!
 
-- 📄 Know more about me on <a href="https://linkedin.com/in/ojasathghara" target="_blank">LinkedIn</a>
+- 📄 Know more about me on <a href="https://www.linkedin.com/in/ojasathghara" target="_blank">LinkedIn</a>
 <br/>
 <br/>
 <br/>
