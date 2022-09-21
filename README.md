@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm <a href="https://lnk.at/ojasathghara" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://lnk.at/ojasathghara" target="_blank">
 Ojaswi Athghara</a></h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India &#127470;&#127475</h3>
 <br/>
 
-<p align="center"> <a href="https://twitter.com/ojasathghara" target="blank"><img src="https://img.shields.io/twitter/follow/ojasathghara?logo=twitter&style=for-the-badge" alt="ojasathghara" /></a> </p>
+<p align="center"> <a href="https://twitter.com/ojasathghara" target="_blank"><img src="https://img.shields.io/twitter/follow/ojasathghara?logo=twitter&style=for-the-badge" alt="ojasathghara" /></a> </p>
 <br/>
 <br/>
 
@@ -23,8 +23,8 @@ Ojaswi Athghara</a></h1>
 
 - Blog and personal website coming soon!
 
-- 📄 Know more about me on <a href="https://linkedin.com/in/ojasathghara" target="blank">LinkedIn</a>
+- 📄 Know more about me on <a href="https://linkedin.com/in/ojasathghara" target="_blank">LinkedIn</a>
 <br/>
 <br/>
 <br/>
-<h3 align="center" ><a href="https://lnk.at/ojasathghara" target="blank">Let's connect</a> 🤝</h3>
+<h3 align="center" ><a href="https://lnk.at/ojasathghara" target="_blank">Let's connect</a> 🤝</h3>
