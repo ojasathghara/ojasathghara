@@ -27,4 +27,4 @@ Ojaswi Athghara</a></h1>
 <br/>
 <br/>
 <br/>
-<h3 align="center" ><a href="https://lnk.at/ojasathghara" target="blank">Let's connect 🤝 </a></h3>
+<h3 align="center" ><a href="https://lnk.at/ojasathghara" target="blank">Let's connect</a> 🤝</h3>
