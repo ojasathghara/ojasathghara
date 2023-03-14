@@ -3,7 +3,6 @@ Ojaswi Athghara</a></h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India &#127470;&#127475</h3>
 <br/>
 
-<p align="center"> <a href="https://twitter.com/ojasathghara" target="_blank"><img src="https://img.shields.io/twitter/follow/ojasathghara?logo=twitter&style=for-the-badge" alt="ojasathghara" /></a> </p>
 <br/>
 <br/>
 
@@ -19,7 +18,7 @@ Ojaswi Athghara</a></h1>
 
 - 💬 Ask me about **React JS & Next JS**
 
-- 📫 Write to me at **athgharaojaswi@gmail.com**
+- 📫 Write to me at **ojaswi.athghara98@gmail.com**
 
 - Blog and personal website coming soon!
 
