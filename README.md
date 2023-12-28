@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://lnk.at/ojasatg" target="_blank">
+<h1 align="center">Hi 👋, I'm <a href="https://lnk.bio/ojasatg" target="_blank">
 Ojaswi Athghara</a></h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India &#127470;&#127475</h3>
 <br/>
@@ -26,4 +26,4 @@ Ojaswi Athghara</a></h1>
 <br/>
 <br/>
 <br/>
-<h3 align="center" ><a href="https://lnk.at/ojasatg" target="_blank">Let's connect</a> 🤝</h3>
+<h3 align="center" ><a href="https://lnk.bio/ojasatg" target="_blank">Let's connect</a> 🤝</h3>
